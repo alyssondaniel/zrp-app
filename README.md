@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+O que fazer para app ficar mais rápida?
+ - Adicionaria ao projeto a `gem 'jsonapi-serializer'` para criar uma API de alto desempenho
